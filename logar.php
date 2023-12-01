@@ -30,6 +30,10 @@ include_once "conexao.php";
         alert("Usuario ou senha invalido !!");
         </script>
         ';
+
+        echo'<script>
+        history.go("-1");
+            </script>'; 
         } else {
             header('Location: logado.php');
 

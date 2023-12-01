@@ -54,9 +54,9 @@ include_once "conexao.php";
 
     <Main id="site">
         <div>
-
-            <a href="index.html">  <button> LOGOFF</button> </a>
-
+           
+            <a href="logoff.php"> <button> LOGOFF</button> </a>
+        
         </div>
     </Main>
 

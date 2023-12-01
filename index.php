@@ -30,6 +30,7 @@ include_once "conexao.php";
 
                 </form>
 
+               <a href=""> <p>Esqueceu a senha</p> </a>
             </div>
 
         </div>
